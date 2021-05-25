@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benettlinger, a Graduate Student at Colorado State University pursuing an M.S. in Systems Engineering.
 - 👀 I’m interested in Heavy Vehicle Cybersecurtiy
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Systems Engineering, specifically Model-Based Systems Engineering and Intellectual Property 
 - 💞️ I’m looking to collaborate on cybersecurity projects involving CAN, J1708, and Automotive Ethernet
 - 📫 How to reach me ... you can send an email to ben.ettlinger@colostate.edu
 
